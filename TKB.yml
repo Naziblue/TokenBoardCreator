@@ -1,0 +1,10 @@
+name: TKB
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - nodejs
+  - yarn
+  - python=3.10
+  - pip
+ 
