@@ -23,9 +23,3 @@ Follow these steps to set up and run the project locally.
 - [Node.js](https://nodejs.org/) (v14 or later)
 - [npm](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/)
 - [Git](https://git-scm.com/)
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/token-board-creator.git
-cd token-board-creator
